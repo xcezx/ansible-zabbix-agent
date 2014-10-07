@@ -7,34 +7,34 @@ Role Variables
 --------------
 
 - `zabbix_agent_install_packages`
-- `zabbix_agent.settings.Alias`
-- `zabbix_agent.settings.AllowRoot`
-- `zabbix_agent.settings.BufferSend`
-- `zabbix_agent.settings.BufferSize`
-- `zabbix_agent.settings.DebugLevel`
-- `zabbix_agent.settings.EnebleRemoteCommands`
-- `zabbix_agent.settings.HostMetadata`
-- `zabbix_agent.settings.HostMetadataItem`
-- `zabbix_agent.settings.Hostname`
-- `zabbix_agent.settings.HostnameItem`
-- `zabbix_agent.settings.Include`
-- `zabbix_agent.settings.ListenIP`
-- `zabbix_agent.settings.ListenPort`
-- `zabbix_agent.settings.LoadModule`
-- `zabbix_agent.settings.LoadModulePath`
-- `zabbix_agent.settings.LogFile`
-- `zabbix_agent.settings.LogFileSize`
-- `zabbix_agent.settings.LogRemoteCommands`
-- `zabbix_agent.settings.MaxLinesPerSecond`
-- `zabbix_agent.settings.PidFile`
-- `zabbix_agent.settings.RefreshActiveChecks`
-- `zabbix_agent.settings.Server`
-- `zabbix_agent.settings.ServerActive`
-- `zabbix_agent.settings.SourceIP`
-- `zabbix_agent.settings.StartAgents`
-- `zabbix_agent.settings.Timeout`
-- `zabbix_agent.settings.UnsafeUserParameters`
-- `zabbix_agent.settings.UserParameter`
+- `zabbix_agent_Alias`
+- `zabbix_agent_AllowRoot`
+- `zabbix_agent_BufferSend`
+- `zabbix_agent_BufferSize`
+- `zabbix_agent_DebugLevel`
+- `zabbix_agent_EnebleRemoteCommands`
+- `zabbix_agent_HostMetadata`
+- `zabbix_agent_HostMetadataItem`
+- `zabbix_agent_Hostname`
+- `zabbix_agent_HostnameItem`
+- `zabbix_agent_Include`
+- `zabbix_agent_ListenIP`
+- `zabbix_agent_ListenPort`
+- `zabbix_agent_LoadModule`
+- `zabbix_agent_LoadModulePath`
+- `zabbix_agent_LogFile`
+- `zabbix_agent_LogFileSize`
+- `zabbix_agent_LogRemoteCommands`
+- `zabbix_agent_MaxLinesPerSecond`
+- `zabbix_agent_PidFile`
+- `zabbix_agent_RefreshActiveChecks`
+- `zabbix_agent_Server`
+- `zabbix_agent_ServerActive`
+- `zabbix_agent_SourceIP`
+- `zabbix_agent_StartAgents`
+- `zabbix_agent_Timeout`
+- `zabbix_agent_UnsafeUserParameters`
+- `zabbix_agent_UserParameter`
 
 Dependencies
 ------------
